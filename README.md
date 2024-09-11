@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humansu1t" alt="humansu1t" /></a> </p>
 
 - 🔭 I’m currently working on [Music website](https://humansu1t.github.io/music-design-site/)
+  
+- Soon I wil continue working on [Zo‘r tv](https://humansu1t.github.io/zortv/)'s website
 
 - 👨‍💻 All of my projects are available at [https://github.com/Humansu1t](https://github.com/Humansu1t)
 
